@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on
-A web-based 3D desktop-style tool interface using HTML, CSS, and JavaScript. Think calculator, notepad, calendar—all in one interactive UI.<br>👯 I’m looking to collaborate on Creative front-end projects, productivity tools, or anything that blends design with practical utility.<br>🤝 I’m looking for help with Building modular JavaScript components, improving UI/UX for tool-heavy web apps, and organizing large codebases cleanly.<br>🌱 I’m currently learning JavaScript in depth through SuperSimpleDev's Beginner to Pro course, with a focus on DOM manipulation, async programming, and real-world project structuring.<br>💬 
+A web-based 3D desktop-style tool interface using HTML, CSS, and JavaScript. Think calculator, notepad, calendar—all in one interactive UI.<br>👯 I’m looking to collaborate on Creative front-end projects, productivity tools, or anything that blends design with practical utility.<br>🤝 I’m looking for help with Building modular JavaScript components, improving UI/UX for tool-heavy web apps, and organizing large codebases cleanly.<br>🌱 I’m currently learning JavaScript in depth through SuperSimpleDev's Beginner to Pro course, with a focus on DOM manipulation, async programming, and real-world project structuring.<br>
 
 
 # 💻 Tech Stack:
